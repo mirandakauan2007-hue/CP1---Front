@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+header {
+    background: #5c0a0a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.banner {
+    background: #8b0000;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+/* TEXTO */
+p {
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+/* IMAGENS (AGORA MENORES E BONITAS) */
+img {
+    width: 220px;
+    height: auto;
+    display: block;
+    margin: 40px 0;
+    border-radius: 10px;
+}
+
+/* PRODUTOS */
+.produtos-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 50px;
+}
+
+/* TABELA */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}

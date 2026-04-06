@@ -1,4 +1,3 @@
-# CP1---Front
 git add .
 git commit -m " Paginas Criadas"
 git push

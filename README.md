@@ -1,20 +1,24 @@
 # Vinharia Agnello
 
 ## 📌 Descrição
-Projeto de site institucional desenvolvido para a disciplina de Front-End.
+Site desenvolvido para apresentar vinhos, história e contato da vinheria.
 
-## 📂 Estrutura
-- index.html → Página inicial
-- historia.html → História da empresa
-- produtos.html → Tabela de produtos
-- galeria.html → Imagens
-- contato.html → Formulário
+## 📂 Páginas
+- Home
+- História
+- Produtos
+- Galeria
+- Contato
 
 ## 👥 Integrantes
-- Isadora Bradac RM:569585
-- Murilo RM:573517
-- Enrico RM:562384
-- Kauã RM:569473
+Isadora bradac 
+Rm:569585
+Murilo
+Rm:573517
+Enrico
+RM : 562384
+Kauã
+Rm:569473
 
-## 🌐 GitHub Pages
-https://mirandakauan2007-hue.github.io/CP1---Front/index.html
+## 🌐 Link
+https://mirandakauan2007-hue.github.io/CP1---Front/
